@@ -1,9 +1,7 @@
 # TensorRT-with-PyTorch
 In this repository, you will find Complete code files, with proper documentation on how to use PyTorch Models with TensorRT optimization for PCs, Jetson TX2 and Jetson Nano.
 
-I will start uploading the files and readme instruction in this repository
-Currently----------------- Status--> Working
-
+This repository has taken help from various sources including Nvidia sample code files for TensorRT, https://www.learnopencv.com/ .
 
 By using the performence metrics like accuracy,total inference time and FPS we will compare the Pytorch NN model of resnet50 and the same Pytorch model optimzed with TensorRT (TensorRT is a Nivida's deep learning optimization library which optimizes the Neural Networks written and trained in differnt frameworks like ONNX,TensorFlow,Pytorch etc) . We will see that the performece interms of speed and FPS is enhanced after optimizing the network using TensorRT but there is small decrease in accuracy (but thats not a big deal because when using AI in production, inference time matter more !).
 
