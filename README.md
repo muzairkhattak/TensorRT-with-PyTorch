@@ -17,9 +17,9 @@ Remember to install that particular version of Pytorch which is compatible with 
 https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-7-0-now-available/72048 
 
 --> Also you will need to install some other libraries like PyCuda etc . For Pycuda use the following commands and run those in terminal 
- export PATH=/usr/local/cuda/bin:${PATH}            .
- export LD_LIBRARY_PATH=/usr/local/cuda/lib64:${LD_LIBRARY_PATH}               .
- pip3 install 'pycuda>=2019.1.1'                        .
+--> export PATH=/usr/local/cuda/bin:${PATH}            
+--> export LD_LIBRARY_PATH=/usr/local/cuda/lib64:${LD_LIBRARY_PATH}               
+--> pip3 install 'pycuda>=2019.1.1'                        
  
  -------------------------------------------------------------------------
  So Now we have full enviroment ready to run the scripts in this repository and then compare the results !!
