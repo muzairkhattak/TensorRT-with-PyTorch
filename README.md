@@ -77,8 +77,12 @@ For using this repo with your own model and dataset, remember that the model wei
  --------------------------------------------------------------------------
  JUST CLONE THE WHOLE REPOSITORY TO YOUR JETSON DEVICE AND Move your data into the "arranged_data_final folder", trained weights into the "weights" folder.
   
+--------------
+RESULTS/COMPARISION
+--------
+In the following results images, the first one shows the performence metrics with unoptimzed normal Pytorch Model on Jetson Nano (4GB), while the second image shows the results acheived using TensorRT with same PyTorch model.
 
-  
+![alt text](https://github.com/Uzair-Khattak/TensorRT-with-PyTorch/blob/main/part1.jpg)
  
 
 
