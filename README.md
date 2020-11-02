@@ -84,7 +84,7 @@ In the following results images, the first one shows the performence metrics wit
 
 ![alt text](https://github.com/Uzair-Khattak/TensorRT-with-PyTorch/blob/main/part1.jpg)
 
-![alt text](https://github.com/Uzair-Khattak/TensorRT-with-PyTorch/blob/main/part2.jpg)
+![alt text](https://github.com/Uzair-Khattak/TensorRT-with-PyTorch/blob/main/engine_results.jpg)
 
 
 
