@@ -73,6 +73,10 @@ https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-7-0-now-avail
  ---------------------------
 For using this repo with your own model and dataset, remember that the model weights should be from Pytorch trained network, and the dataset must be in the ImageNet style format.
  --------------------------------------------------------------------------
+ TO USE THIS REPOSITORY WITH YOUR PC, TensorRT compatible with the CUDA and Pytorch version must be installed manually.
+ --------------------------------------------------------------------------
+ To install Tensorrt on desktop computers, use the link https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html
+ --------------------------------------------------------------------------
  JUST CLONE THE WHOLE REPOSITORY TO YOUR JETSON DEVICE AND Move your data into the "arranged_data_final folder", trained weights into the "weights" folder.
   
 
